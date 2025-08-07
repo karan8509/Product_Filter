@@ -1,2 +1,2 @@
-Category Filter: Allows users to filter products
-state mag  redux
+🛍️ Product Filter
+This feature allows users to filter products based on different criteria to improve their browsing and shopping experience.
